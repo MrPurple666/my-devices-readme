@@ -1,4 +1,4 @@
-Device configuration for the Redmi Note 9S / 9 Pro (India) / Note 10 Lite (India)
+Redmi Note 9S / 9 Pro (India) / Note 10 Lite (India)
 ============================================
 
 The Redmi Note 9S / 9 Pro India / Note 10 Lite / (codenamed _"curtana"_) is a mid range smartphone from Xiaomi's sub-brand Redmi.
