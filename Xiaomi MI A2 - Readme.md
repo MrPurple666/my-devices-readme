@@ -1,4 +1,4 @@
-
+## Xiaomi Mi A2
 The MI A2 (codenamed _"jasmine_sprout"_) is a mid-range phone from Xiaomi.
 
 Xiaomi MI A2 was announced and released in July 2018.
